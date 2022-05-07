@@ -1,0 +1,6 @@
+[submodule "hash_hub"]
+	path = hash_hub
+	url = https://github.com/prerna0202/Guidance_hub-backend
+[submodule "Hashhub_Backend"]
+	path = Hashhub_Backend
+	url = https://github.com/prerna0202/Guidance_hub-backend
